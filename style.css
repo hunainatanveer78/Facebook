@@ -1,0 +1,283 @@
+/* *{
+    border: 1px solid blue;
+} */
+ .navbar{
+    padding: 0 3px;
+    width: 100%;
+ }
+
+.icone{
+  font-size: 0rem;
+color: #0866FF;
+}
+.form-control{
+    border-radius: 40px;
+}
+.icone1{
+color: #0866FF;
+font-size: 1.2rem;
+}
+.icone2{
+    color: #646669;
+}
+.nav-item:hover{
+    background: #F2F2F2;
+    border-radius: 20px;
+
+}
+.nav-item{
+    padding: 0% 30%;
+}
+.sec1{
+    background: #E4E6E9;
+
+}
+.div1{
+    margin-top: 3%;
+}
+.a1b2c3:hover{
+    background: #d3d4d6 ;
+}
+.div1:hover,.rowcol:hover{
+    background: #d3d4d6 ;
+}
+.icon1233{
+    color: #1979E8;
+}
+.icon456{
+    color: #22A8F0;
+}
+.icon789{
+    color: #21A5F0;
+}
+.icon101112{
+    color: #21A3D4;
+}
+.icon131415{
+    color: #21A4FA;
+}
+.icon161718{
+    color: #33ADEE;
+}
+.icon192021{
+    color: #B54AD0;
+}
+.h145{
+    color: #1a55ca;
+}
+.Sponsored{
+    color: #7C7D81;
+    font-size: 1rem;
+    font-family: "PT Sans", sans-serif;
+
+}
+.dd3{
+    width: 200%;
+ padding: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+  background-image: url(img/1.jpg);
+  background-size: cover;
+  border-radius: 5%;
+}
+.rowcol:hover{
+    background: #d3d4d6 ;
+}
+.dd4{
+    width: 200%;
+ padding: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+  background-image: url(img/2.jpg);
+  background-size: cover;
+  border-radius: 5%;
+}  
+.h12a2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+.abcdef:hover{
+background: #a6a6a7;
+border-radius: 5%;
+}
+.h2abcdef{
+    font-size: 1rem;
+    font-family: "PT Sans", sans-serif;
+}
+.Reclaim{
+    font-size:1rem ;
+    font-family: "PT Sans", sans-serif;
+}
+.img1{
+    padding: 10%;
+    margin-top: 0%;
+}
+.iconeh23{
+    background: #075CE5;
+    padding: 5% 6%;
+
+    color: white;
+    font-weight: 10%;
+ 
+    text-align: center;
+   
+  
+   }
+
+   /* .image12{
+    background-image: url(img/web23.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 10%;
+   } */
+   .image12{
+    background-image: url(img/web23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+   .image34{
+        background-image: url(img/hassam.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+   }
+   .image56{
+   background-image: url(img/sistrology.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+     }
+     .iconeh23{
+        margin: auto;
+        margin-left: 40%;
+        border: 5px solid white;
+        margin-bottom: 0%;
+        margin-top: -30%;
+
+     }
+     .creatstory{
+        text-align: center;
+     }
+     .girlimge{
+        border: 6px solid blue;
+     }
+    .hassam{
+        border: 6px solid blue;
+    }
+    .main2{
+        width: 50vw;
+        background-color: white;
+        margin-top: 5%;
+    }
+    .inp{
+        width: 42vw;
+        background: #F0F2F5;   
+        
+       
+    }
+    .image78{
+        width: 129%;
+    }
+    .imght{
+        margin-right: 10%;
+    }
+    .video{
+        color: #E42645;
+    }
+   .iconetext:hover{
+          background-color: #F2F2F2;
+   }
+   .iconetext2:hover{
+    background-color: #F2F2F2;
+   }
+   .Photo{
+    color: #41B35D;
+   }
+   .smile{
+    color: #EAB026;
+   }
+   .h6le{
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+   }
+   .h6274{
+    font-size: 0.8rem;
+    font-family: "Roboto", sans-serif;
+    color: #65676B;
+   }
+   .tb:hover{
+    outline: black;
+   }
+   .tb{
+    font-weight: bold;
+   }
+  .imgle{
+    width: 60vw;
+  }
+  .main4{
+    width: 50vw;
+    background-color: white;
+  }
+  
+  .fa-regular{
+    font-size: 1.5rem;
+  }
+  .hov:hover{
+    background-color: #F2F2F2;
+  }
+  .main6{
+    width: 50vw;
+    background-color: white;
+  }
+  .fa-brands{
+    font-size: 1.5rem;
+  }
+  .fa-solid{
+    font-size: 1.5rem;
+  }
+  .div5678{
+    background: white;
+    padding: 1px;
+    width: 130%;
+    text-align: center;
+}
+.div1234he{
+ background: white;
+    padding: 0px;
+    width: 100%;
+    text-align: center;    
+    margin-left: 0%;
+}
+  .imgle{
+    width: 500vw;
+    height: 100vh;
+  }
+ .eshal{
+    margin: 4%;
+ }
+ .s12sa12{
+    color: #65676B;
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.class{
+    font-size: 1rem;
+}
+
+.class:hover{
+background: #9d9ea0;
+border-radius: 40%;
+}
+.class1{
+    font-size: 1rem;
+}
+.class1:hover{
+background: #9d9ea0;
+border-radius: 100%;
+}
+@media screen and (max-width: 320px){
+    .image78,.div1234he,.div5678,.girlimge,.hassam,.girlimge{
+        display: none;
+    }
+    
+}
